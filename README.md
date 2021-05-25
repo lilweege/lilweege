@@ -1,7 +1,7 @@
 ### Hi, I'm Luigi
 
 I'm an engineering student at McMaster University. I love to challenge myself and see what I am able to create!  
-I'd love to get in touch! Check out the links below or see more at [luigi.quattrociocchi.net](https://luigi.quattrociocchi.net).
+I'd love to get in touch! Check out the links below or see more at [luigi.codes](https://luigi.codes).
 
 
 
@@ -19,7 +19,7 @@ I'd love to get in touch! Check out the links below or see more at [luigi.quattr
 [5.1]: https://user-images.githubusercontent.com/59585724/118237639-828e6a00-b465-11eb-9e2e-3cf4ae2c9550.png
 
 
-[1]: https://luigi.quattrociocchi.net 
+[1]: https://luigi.codes
 [2]: mailto:luigi@quattrociocchi.net
 [3]: https://www.linkedin.com/in/luigi-q
 [4]: https://www.instagram.com/luigi.q2
