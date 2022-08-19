@@ -7,7 +7,6 @@ I'm an engineering student at McMaster University. I love to challenge myself an
 I'd love to get in touch! Click the links below or check out <a href="https://luigi.codes">luigi.codes</a>.
 </p>
   
-<img src="https://github-readme-stats.vercel.app/api?username=lilweege&count_private=true&show_icons=true&include_all_commits=true&hide=stars&hide_rank=true&hide_border=true&theme=dark">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilweege&layout=compact&langs_count=6&hide_border=true&theme=dark">
 
 <p></p>
