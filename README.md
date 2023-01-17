@@ -6,8 +6,6 @@
 I'm an engineering student at McMaster University. I love to challenge myself and see what I am able to create!<br>
 I'd love to get in touch! Click the links below or check out <a href="https://luigi.codes">luigi.codes</a>.
 </p>
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilweege&layout=compact&langs_count=6&hide_border=true&theme=dark">
 
 <p></p>
 
