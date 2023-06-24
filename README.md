@@ -1,17 +1,14 @@
-<h2 align=center>Hi, I'm Luigi</h2>
-
-<div align=center>
-
-<p>
-I'm an engineering student at McMaster University. I love to challenge myself and see what I am able to create!<br>
-I'd love to get in touch! Click the links below or check out <a href="https://luigi.codes">luigi.codes</a>.
+<h3 align="center">Hi, I'm Luigi</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/luigi-q/">linkedin</a> | <a href="https://luigi.codes">website</a> | <a href="mailto:luigi@quattrociocchi.net">email</a>
 </p>
 
-<p></p>
+---
 
-<a href="mailto:luigi@quattrociocchi.net"><img height=32 src="https://webstockreview.net/images/email-icon-png-6.png"></a>
-<a href="https://luigi.codes"><img height=32 src="https://webstockreview.net/images/website-icon-png-4.png"></a>
-<a href="https://github.com/lilweege"><img height=32 src="https://github.com/lilweege/luigi.codes/blob/master/img/GitHub.png"></a>
-<a href="https://www.linkedin.com/in/luigi-q"><img height=32 src="https://github.com/lilweege/luigi.codes/blob/master/img/LinkedIn.png"></a>
+Full time:
+- 🏫 SWE at McMaster University
+- 💼 Intern at Intel
 
-</div>
+Free time:
+- 👨‍💻 Von Neumann Enjoyer
+- 🐧 FOSS Enthusiast
