@@ -7,7 +7,6 @@
 
 Full time:
 - 🏫 SWE at McMaster University
-- 💼 Intern at Intel
 
 Free time:
 - 👨‍💻 Von Neumann Enjoyer
