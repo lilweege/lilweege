@@ -5,12 +5,7 @@
 
 ---
 
-Full time:
-- 🏫 SWE at McMaster University
-
-Free time:
-- 👨‍💻 Von Neumann Enjoyer
-- 🐧 FOSS Enthusiast
+MTS at Cerebras Systems
 
 <br>
 <details>
